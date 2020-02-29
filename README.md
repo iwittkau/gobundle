@@ -8,7 +8,7 @@ Gobundle makes your Go tools portable and allows you to keep them up to date.
 # Installing / Getting started
 
 ```shell
-go get github.com/iwittkau/gobundle/cmd/gobundle@latest
+GO111MODULE=on go get github.com/iwittkau/gobundle/cmd/gobundle@latest
 gobundle -v
 ```
 
