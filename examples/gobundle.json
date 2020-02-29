@@ -1,6 +1,14 @@
 [
     {
-        "package": "github.com/iwittkau/gobundle/cmd/gobundle",
+        "package": "github.com/rakyll/govalidate",
         "version": "latest"
+    },
+    {
+        "package": "github.com/google/gops",
+        "version": "latest"
+    },
+    {
+        "package": "honnef.co/go/tools/cmd/staticcheck",
+        "version": "2020.1.3"
     }
 ]
